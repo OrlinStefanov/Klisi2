@@ -1,0 +1,945 @@
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.runtimeconfig.json
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.pdb
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Console.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Core.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Data.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Web.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\netstandard.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt.dat
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libicudata.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libicui18n.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libicuuc.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+C:\Програмиране\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\about_app_logo.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\about_us_logo.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\back_btn.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\boxview.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\button.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\checkbox.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\contentpage.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\dark_mode.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\databinding_img.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\datepicker.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\edit_pencil_img.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\firststeps_img.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\flayoutpage.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\flexlayout.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\frame.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\grid.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\home_btn.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\horizontallayout.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\imagebutton.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\label.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\layouts_img.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\lock_back_arrow.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\lock_home_btn.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\menu_back_arrow.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\navigationpage.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\page_img.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\picker.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\progressbar.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\radiobutton.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\right_forward.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\searchbar.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\settings_img.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\sign_out.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\stacklayout.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\tabbedpage.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\templates_img.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\test_pencil_img.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\timepicker.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\user.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\verticallayout.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\views_img.png
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.csproj.AssemblyReference.cache
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.AssemblyInfoInputs.cache
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.AssemblyInfo.cs
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.csproj.CoreCompileInputs.cache
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.csproj.CopyComplete
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.dll
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\refint\Code Legend.dll
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.pdb
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.genruntimeconfig.cache
+C:\Програмиране\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\Code Legend.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.runtimeconfig.json
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.pdb
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Console.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Core.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Data.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Web.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\netstandard.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt.dat
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libicudata.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libicui18n.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libicuuc.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\aboutus_white_logo.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\about_app_logo.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\back_btn.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\boxview.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\button.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\checkbox.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\contentpage.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\dark_mode.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\databinding_img.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\datepicker.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\edit_pencil_img.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\firststeps_img.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\flayoutpage.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\flexlayout.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\frame.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\grid.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\home_btn.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\horizontallayout.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\imagebutton.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\label.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\layouts_img.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\lock_back_arrow.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\lock_home_btn.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\menu_back_arrow.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\navigationpage.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\page_img.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\picker.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\progressbar.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\radiobutton.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\right_forward.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\searchbar.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\settings_img.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\sign_out.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\stacklayout.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\tabbedpage.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\templates_img.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\test_pencil_img.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\timepicker.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\user.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\verticallayout.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\views_img.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.csproj.AssemblyReference.cache
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.AssemblyInfoInputs.cache
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.AssemblyInfo.cs
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.csproj.CoreCompileInputs.cache
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.csproj.CopyComplete
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\refint\Code Legend.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.pdb
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.genruntimeconfig.cache
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\Code Legend.dll
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\about_us_logo.jpg
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\first_steps.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\appear_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\bool_basic.jpg
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\break_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\classes_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\controls_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\c_meaning.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\datatime_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\elements_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\events_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\filestream_basic.jpg
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\for_basic.jpg
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\function_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\if_else_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\int_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\listbox_basic.jpg
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\methods_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\mylists_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\streamreader_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\string_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\switch_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\try_basic.png
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\variables_basic.jpg
+D:\Orlin programs\Maui C#\App-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\while_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauiimage.inputs
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauifont.inputs
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauisplash.inputs
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauisplash.stamp
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@2x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon20x20@3x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@2x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon29x29@3x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@2x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon40x40@3x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@2x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon60x60@3x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon76x76@2x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appicon83.5x83.5@2x.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\appiconItunesArtwork.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Assets.xcassets\appicon.appiconset\Contents.json
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\about.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\about_app_logo.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\appear_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\background_img.jpg
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\back_btn.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\bool_basic.jpg
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\boxview.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\break_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\button.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\checkbox.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\classes_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\contentpage.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\controls_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\csharp_logo.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\c_meaning.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\dark_mode.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\databinding_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\datatime_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\datepicker.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\elements_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\events_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\filestream_basic.jpg
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\firststeps_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\first_steps.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\flayoutpage.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\flexlayout.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\for_basic.jpg
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\frame.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\function_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\fundaments_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\grid.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\home_btn.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\horizontallayout.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\if_else_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\imagebutton.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\int_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\label.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\layouts_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\listbox_basic.jpg
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\lock_back_arrow.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\lock_home_btn.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\menu_back_arrow.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\methods_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\methods_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\mylists_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\navigationpage.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\page_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\picker.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\progressbar.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\radiobutton.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\right_forward.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\searchbar.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\settings_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\sign_out.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\stacklayout.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\streamreader_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\string_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\switch_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\tabbedpage.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\templates_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\test_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\timepicker.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\try_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\ui_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\user.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\variables_basic.jpg
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\version_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\verticallayout.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\views_img.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\while_basic.png
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauifont.stamp
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\actool\_PartialAppManifest.items
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\actool\_BundleResourceWithLogicalName.items
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\actool\_ProcessedImageAssetsPath.items
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\coremlc\_PartialAppManifest.items
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\coremlc\_BundleResourceWithLogicalName.items
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\coremlc\_ProcessedCoreMLModelsPath.items
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\_ProcessedBundleResourcesPath.items
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\_ProcessedContentPath.items
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.csproj.AssemblyReference.cache
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.AssemblyInfoInputs.cache
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.AssemblyInfo.cs
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.csproj.CoreCompileInputs.cache
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.runtimeconfig.json
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.pdb
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Options.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Extensions.Primitives.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Graphics.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.CSharp.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.Core.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.VisualBasic.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Primitives.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Win32.Registry.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.AppContext.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Buffers.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.Concurrent.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.Immutable.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.NonGeneric.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.Specialized.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Collections.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Annotations.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.DataAnnotations.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.EventBasedAsync.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.Primitives.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.TypeConverter.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ComponentModel.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Configuration.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Console.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Core.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Data.Common.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Data.DataSetExtensions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Data.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Contracts.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Debug.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.DiagnosticSource.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.FileVersionInfo.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Process.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.StackTrace.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TextWriterTraceListener.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tools.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.TraceSource.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Diagnostics.Tracing.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Drawing.Primitives.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Drawing.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Dynamic.Runtime.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Formats.Asn1.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Formats.Tar.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Globalization.Calendars.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Globalization.Extensions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Globalization.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.Brotli.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.FileSystem.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.ZipFile.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Compression.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.AccessControl.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.DriveInfo.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Primitives.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.Watcher.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.FileSystem.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.IsolatedStorage.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.MemoryMappedFiles.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.AccessControl.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.Pipes.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.UnmanagedMemoryStream.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.IO.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.Expressions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.Parallel.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.Queryable.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Linq.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Memory.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Http.Json.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Http.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.HttpListener.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Mail.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.NameResolution.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.NetworkInformation.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Ping.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Primitives.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Quic.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Requests.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Security.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.ServicePoint.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.Sockets.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebClient.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebHeaderCollection.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebProxy.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.Client.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.WebSockets.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Net.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Numerics.Vectors.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Numerics.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ObjectModel.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.DataContractSerialization.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.Uri.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.Xml.Linq.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.Xml.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.DispatchProxy.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.ILGeneration.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.Lightweight.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Emit.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Extensions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Metadata.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.Primitives.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.TypeExtensions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Reflection.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Resources.Reader.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Resources.ResourceManager.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Resources.Writer.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.Unsafe.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.CompilerServices.VisualC.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Extensions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Handles.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.JavaScript.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.InteropServices.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Intrinsics.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Loader.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Numerics.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Formatters.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Json.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Primitives.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.Xml.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.Serialization.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Runtime.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.AccessControl.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Claims.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Algorithms.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Cng.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Csp.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Encoding.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.OpenSsl.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.Primitives.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.X509Certificates.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Cryptography.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Principal.Windows.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.Principal.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.SecureString.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Security.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ServiceModel.Web.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ServiceProcess.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.CodePages.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.Extensions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encoding.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Encodings.Web.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.Json.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Text.RegularExpressions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Channels.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Overlapped.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Dataflow.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Extensions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.Parallel.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Tasks.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Thread.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.ThreadPool.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.Timer.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Threading.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Transactions.Local.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Transactions.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.ValueTuple.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Web.HttpUtility.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Web.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Windows.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.Linq.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.ReaderWriter.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.Serialization.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XDocument.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.XDocument.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XPath.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XmlDocument.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.XmlSerializer.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Xml.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\WindowsBase.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\mscorlib.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\netstandard.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Controls.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.Maui.Essentials.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\System.Private.CoreLib.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt.dat
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt_CJK.dat
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt_EFIGS.dat
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\icudt_no_CJK.dat
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.IO.Compression.Native.dylib
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Native.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Native.dylib
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Net.Security.Native.dylib
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libSystem.Security.Cryptography.Native.Apple.dylib
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libicudata.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libicui18n.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libicuuc.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-static.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-debugger-stub-static.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-static.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-diagnostics_tracing-stub-static.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-static.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmono-component-hot_reload-stub-static.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libmonosgen-2.0.dylib
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\Microsoft.MacCatalyst.registrar.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet-debug.dylib
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.a
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\bin\Debug\net7.0-maccatalyst\maccatalyst-x64\libxamarin-dotnet.dylib
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\XamlC.stamp
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.csproj.CopyComplete
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\refint\Code Legend.dll
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.pdb
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\Code Legend.genruntimeconfig.cache
+D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\Code Legend.dll

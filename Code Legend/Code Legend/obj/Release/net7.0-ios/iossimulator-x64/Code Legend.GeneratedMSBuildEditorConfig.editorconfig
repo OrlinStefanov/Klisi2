@@ -1,0 +1,161 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Code_Legend
+build_property.ProjectDir = D:\Orlin programs\Maui C#\AppO-main\AppO-main\Code Legend\Code Legend\
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/About.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.About.xaml
+build_metadata.AdditionalFiles.TargetPath = About.xaml
+build_metadata.AdditionalFiles.RelativePath = About.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Basic_C_Folder/Controls_Basic.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Basic_C_Folder.Controls_Basic.xaml
+build_metadata.AdditionalFiles.TargetPath = Basic_C_Folder\Controls_Basic.xaml
+build_metadata.AdditionalFiles.RelativePath = Basic_C_Folder\Controls_Basic.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Basic_C_Folder/Elements_C.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Basic_C_Folder.Elements_C.xaml
+build_metadata.AdditionalFiles.TargetPath = Basic_C_Folder\Elements_C.xaml
+build_metadata.AdditionalFiles.RelativePath = Basic_C_Folder\Elements_C.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Basic_C_Folder/Events_basic.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Basic_C_Folder.Events_basic.xaml
+build_metadata.AdditionalFiles.TargetPath = Basic_C_Folder\Events_basic.xaml
+build_metadata.AdditionalFiles.RelativePath = Basic_C_Folder\Events_basic.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Basic_C_Folder/FS_Basic.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Basic_C_Folder.FS_Basic.xaml
+build_metadata.AdditionalFiles.TargetPath = Basic_C_Folder\FS_Basic.xaml
+build_metadata.AdditionalFiles.RelativePath = Basic_C_Folder\FS_Basic.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Basic_C_Folder/Methods_Basic.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Basic_C_Folder.Methods_Basic.xaml
+build_metadata.AdditionalFiles.TargetPath = Basic_C_Folder\Methods_Basic.xaml
+build_metadata.AdditionalFiles.RelativePath = Basic_C_Folder\Methods_Basic.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Basic_C_Folder/Varibles_Basic.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Basic_C_Folder.Varibles_Basic.xaml
+build_metadata.AdditionalFiles.TargetPath = Basic_C_Folder\Varibles_Basic.xaml
+build_metadata.AdditionalFiles.RelativePath = Basic_C_Folder\Varibles_Basic.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Fundamentals/DataBinding_Fundamentals.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Fundamentals.DataBinding_Fundamentals.xaml
+build_metadata.AdditionalFiles.TargetPath = Fundamentals\DataBinding_Fundamentals.xaml
+build_metadata.AdditionalFiles.RelativePath = Fundamentals\DataBinding_Fundamentals.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Fundamentals/Templates_Fundamentals.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Fundamentals.Templates_Fundamentals.xaml
+build_metadata.AdditionalFiles.TargetPath = Fundamentals\Templates_Fundamentals.xaml
+build_metadata.AdditionalFiles.RelativePath = Fundamentals\Templates_Fundamentals.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Fundaments.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Fundaments.xaml
+build_metadata.AdditionalFiles.TargetPath = Fundaments.xaml
+build_metadata.AdditionalFiles.RelativePath = Fundaments.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Main_Basic.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Main_Basic.xaml
+build_metadata.AdditionalFiles.TargetPath = Main_Basic.xaml
+build_metadata.AdditionalFiles.RelativePath = Main_Basic.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Main_Test.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Main_Test.xaml
+build_metadata.AdditionalFiles.TargetPath = Main_Test.xaml
+build_metadata.AdditionalFiles.RelativePath = Main_Test.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Settings.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Settings.xaml
+build_metadata.AdditionalFiles.TargetPath = Settings.xaml
+build_metadata.AdditionalFiles.RelativePath = Settings.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/Test_folder/FS_Test.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.Test_folder.FS_Test.xaml
+build_metadata.AdditionalFiles.TargetPath = Test_folder\FS_Test.xaml
+build_metadata.AdditionalFiles.RelativePath = Test_folder\FS_Test.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/UserInterface.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.UserInterface.xaml
+build_metadata.AdditionalFiles.TargetPath = UserInterface.xaml
+build_metadata.AdditionalFiles.RelativePath = UserInterface.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/UserInterface/FS_UserInterface.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.UserInterface.FS_UserInterface.xaml
+build_metadata.AdditionalFiles.TargetPath = UserInterface\FS_UserInterface.xaml
+build_metadata.AdditionalFiles.RelativePath = UserInterface\FS_UserInterface.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/UserInterface/Layouts_UserInterface.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.UserInterface.Layouts_UserInterface.xaml
+build_metadata.AdditionalFiles.TargetPath = UserInterface\Layouts_UserInterface.xaml
+build_metadata.AdditionalFiles.RelativePath = UserInterface\Layouts_UserInterface.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/UserInterface/Pages_UserInterface.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.UserInterface.Pages_UserInterface.xaml
+build_metadata.AdditionalFiles.TargetPath = UserInterface\Pages_UserInterface.xaml
+build_metadata.AdditionalFiles.RelativePath = UserInterface\Pages_UserInterface.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/UserInterface/ViewsP1_UserInterface.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.UserInterface.ViewsP1_UserInterface.xaml
+build_metadata.AdditionalFiles.TargetPath = UserInterface\ViewsP1_UserInterface.xaml
+build_metadata.AdditionalFiles.RelativePath = UserInterface\ViewsP1_UserInterface.xaml
+
+[D:/Orlin programs/Maui C\#/AppO-main/AppO-main/Code Legend/Code Legend/UserInterface/ViewsP2_UserInterface.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Code_Legend.UserInterface.ViewsP2_UserInterface.xaml
+build_metadata.AdditionalFiles.TargetPath = UserInterface\ViewsP2_UserInterface.xaml
+build_metadata.AdditionalFiles.RelativePath = UserInterface\ViewsP2_UserInterface.xaml

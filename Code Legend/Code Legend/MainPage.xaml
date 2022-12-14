@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Code_Legend.MainPage"
+             Title="Selections">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Settings" IconImageSource="settings_img.png" Clicked="SettingsBtn_Clicked"/>
+    </ContentPage.ToolbarItems>
+    
+    <ScrollView>
+
+        <VerticalStackLayout>
+
+            <!-- .NET MAUI Selections -->
+
+            <Grid WidthRequest="500" HeightRequest="1000">
+                <Image Source="background_img.jpg"
+                   Aspect="AspectFill" />
+
+                <Grid x:Name="SelectionsGrid" WidthRequest="390" HeightRequest="550" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,50,0,0">
+
+                    <Button x:Name="UserInterfaceBtn" ImageSource="ui_img.png" Clicked="UserInterfaceBtn_Clicked" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1.5" Text="User Interface" TextColor="#fff" FontSize="Medium" CornerRadius="0" WidthRequest="270" HeightRequest="70"  HorizontalOptions="Center" VerticalOptions="Start" Margin="0,0,0,0"/>
+
+                    <Button x:Name="FundamentsBtn" ImageSource="fundaments_img.png" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1.5" Clicked="FundamentsBtn_Clicked" Text="Fundaments" TextColor="#fff" FontSize="Medium" CornerRadius="0" WidthRequest="270" HeightRequest="70" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,200,0,0"/>
+
+                    <Button x:Name="Fundamentals2Btn" ImageSource="csharp_logo.png" BackgroundColor="Transparent" BorderColor="#fff" Text="Basic C#" TextColor="#fff" FontSize="Medium" BorderWidth="1.5" CornerRadius="0" WidthRequest="270" HeightRequest="70" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,100,0,0" Clicked="Fundamentals2Btn_Clicked"/>
+
+                    <Button x:Name="TestBtn" ImageSource="test_img.png" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1.5" Text="Tests" TextColor="#fff" FontSize="Medium" CornerRadius="0" WidthRequest="270" HeightRequest="70" HorizontalOptions="Center" VerticalOptions="Center" Margin="0,120,0,0" Clicked="TestBtn_Clicked"/>
+                </Grid>
+            </Grid>
+
+            
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>

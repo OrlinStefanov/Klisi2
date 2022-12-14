@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Code_Legend.Main_Basic"
+             Title="Basic C#">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Settings" IconImageSource="settings_img.png" Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Grid WidthRequest="500" HeightRequest="1000">
+                
+                <Image Source="background_img.jpg"
+                   Aspect="AspectFill" />
+
+                <Grid BackgroundColor="Transparent" WidthRequest="390" HeightRequest="650" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,0,0,200">
+
+                    <Button Text="First steps" TextColor="#fff" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1" CornerRadius="0" FontSize="Medium" ImageSource="firststeps_img.png" WidthRequest="300" HeightRequest="50" VerticalOptions="Start" HorizontalOptions="Center" Margin="0,140,0,0" Clicked="Button_Clicked"/>
+                    <Button Text="Variables in C#" TextColor="#fff" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1" CornerRadius="0" FontSize="Medium" ImageSource="page_img.png" WidthRequest="300" HeightRequest="50" VerticalOptions="Start" HorizontalOptions="Center" Margin="0,210,0,0" Clicked="Button_Clicked_1"/>
+                    <Button Text="Methods in C#" TextColor="#fff" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1" CornerRadius="0" FontSize="Medium" ImageSource="methods_img.png" WidthRequest="300" HeightRequest="50" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,-30,0,0" Clicked="Button_Clicked_2"/>
+                    <Button Text="Elements in C#" TextColor="#fff" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1" CornerRadius="0" FontSize="Medium" ImageSource="elements_basic.png" WidthRequest="300" HeightRequest="50" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,120,0,0" Clicked="Button_Clicked_3"/>
+                    <Button Text="Controls in C#" TextColor="#fff" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1" CornerRadius="0" FontSize="Medium" ImageSource="controls_basic.png" WidthRequest="300" HeightRequest="50" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,270,0,0" Clicked="Button_Clicked_4"/>
+                    <Button Text="Events in C#" TextColor="#fff" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1" CornerRadius="0" FontSize="Medium" ImageSource="events_basic.png" WidthRequest="300" HeightRequest="50" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,420,0,0" Clicked="Button_Clicked_5"/>
+                </Grid>
+                
+            </Grid>
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

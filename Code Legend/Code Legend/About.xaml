@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Code_Legend.About"
+             Title="About this app"
+             Style="{StaticResource page}">
+
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+
+            <Style TargetType="Label" x:Key="label">
+                <Setter Property="TextColor" Value="{AppThemeBinding Light=Black, Dark=White}"/>
+            </Style>
+
+            <Style TargetType="ContentPage" x:Key="page">
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Light=White, Dark=#212121}"/>
+            </Style>
+
+
+            <Style TargetType="Line" x:Key="line">
+                <Setter Property="Stroke" Value="{AppThemeBinding Light=#212121, Dark=White}"/>
+            </Style>
+            
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <Grid WidthRequest="430" HeightRequest="850" HorizontalOptions="Center" VerticalOptions="Center">
+
+                <Grid WidthRequest="430" HeightRequest="210" HorizontalOptions="Center" VerticalOptions="Start">
+
+                    <Label Style="{StaticResource label}" Text="Code Legend" FontSize="18" HorizontalOptions="Center" VerticalOptions="Center" Margin="0,75,0,0"/>
+
+                    <Label Style="{StaticResource label}" Text="Version: 1.2v" FontSize="14" HorizontalOptions="Center" VerticalOptions="Center" Margin="0,130,0,0"/>
+
+                    <Line Style="{StaticResource line}" X1="300" HorizontalOptions="Center" VerticalOptions="End" Margin="60,200,0,0"/>
+
+                    <Grid BackgroundColor="Transparent" WidthRequest="70" HeightRequest="70" VerticalOptions="Start" Margin="0,30,0,0">
+
+                        <Border Stroke="#0000cd"
+                                StrokeThickness="1">
+                            <Border.StrokeShape>
+                                <RoundRectangle CornerRadius="10,10,10,10"/>
+                            </Border.StrokeShape>
+                        </Border>
+
+                        <Image Source="about_app_logo.png" WidthRequest="50" HeightRequest="50"/>
+
+                    </Grid>
+
+                </Grid>
+
+                <Grid Margin="0,0,0,0" WidthRequest="300" HeightRequest="650" VerticalOptions="End" HorizontalOptions="Center">
+                    <Label x:Name="lbl" Text="" Style="{StaticResource label}" VerticalOptions="Center"/>
+                </Grid>
+                
+            </Grid>
+           
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>

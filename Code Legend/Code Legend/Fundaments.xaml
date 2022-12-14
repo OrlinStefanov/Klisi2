@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Code_Legend.Fundaments"
+             Title="Fundaments">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Settings" IconImageSource="settings_img.png" Clicked="SettingsBtn_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <Grid WidthRequest="500" HeightRequest="1000">
+
+                <Image Source="background_img.jpg"
+                   Aspect="AspectFill" />
+                
+                <Grid BackgroundColor="Transparent" WidthRequest="380" HeightRequest="650" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,0,0,200">
+
+                    <Button Text="First steps" TextColor="#fff" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1" CornerRadius="0" FontSize="Medium" ImageSource="firststeps_img.png" WidthRequest="300" HeightRequest="50" VerticalOptions="Start" HorizontalOptions="Center" Margin="0,140,0,0"/>
+
+                    <Button x:Name="TemplatesBtn" Clicked="TemplatesBtn_Clicked" Text="Templates" TextColor="#fff" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1" CornerRadius="0" FontSize="Medium" ImageSource="templates_img.png" WidthRequest="300" HeightRequest="50" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,0,0,150"/>
+
+                    <Button x:Name="DataBindingBtn" Clicked="DataBindingBtn_Clicked" Text="Data Binding" TextColor="#fff" BackgroundColor="Transparent" BorderColor="#fff" BorderWidth="1" CornerRadius="0" FontSize="Medium" ImageSource="databinding_img.png" WidthRequest="300" HeightRequest="50" VerticalOptions="Center" HorizontalOptions="Center" Margin="0,0,0,0"/>
+
+                </Grid>
+            </Grid>
+            <!-- Fundamentals Selections Grid -->
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+    
+</ContentPage>

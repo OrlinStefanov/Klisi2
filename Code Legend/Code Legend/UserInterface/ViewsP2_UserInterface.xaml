@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Code_Legend.ViewsP2_UserInterface"
+             Title="Views Part 2"
+             Style="{AppThemeBinding page}">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Settings" IconImageSource="settings_img.png" Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Label" x:Key="lbl">
+                <Setter Property="TextColor" Value="{AppThemeBinding Light=#212121, Dark=White}"/>
+            </Style>
+
+            <Style TargetType="ContentPage" x:Key="page">
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Light=White, Dark=#212121}"/>
+            </Style>
+
+            <Style TargetType="ProgressBar" x:Key="pr">
+                <Setter Property="BackgroundColor" Value="{AppThemeBinding Light=#212121, Dark=White}"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ScrollView>
+        <VerticalStackLayout>
+
+            <!-- Questions/Progress -->
+            <Grid BackgroundColor="Transparent" WidthRequest="350" HeightRequest="90" Margin="0,-30,0,20">
+
+                <Label Text="1/7 Questions" x:Name="question" Style="{StaticResource lbl}" FontSize="18" HorizontalOptions="End" VerticalOptions="Center"/>
+
+                <Label Text="Progress:" Style="{StaticResource lbl}" VerticalOptions="Center" HorizontalOptions="Start" Margin="0,0,0,0" FontSize="18"/>
+
+                <ProgressBar x:Name="progressBar" VerticalOptions="Center" HorizontalOptions="Start" Margin="80,5,0,0" ProgressColor="Lime" WidthRequest="100"/>
+
+            </Grid>
+
+            <Grid WidthRequest="350" HeightRequest="650">
+                <!--Questions make-->
+                <Label x:Name="First_Text" FontSize="20" Style="{StaticResource lbl}" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,-20,0,0"/>
+
+                <Image x:Name="IMage1" WidthRequest="300" HeightRequest="300" HorizontalOptions="Center" VerticalOptions="Start" Margin="0,50,0,0"/>
+
+                <Label x:Name="Second_Text" Style="{StaticResource lbl}" VerticalOptions="Center" Margin="0,220,0,0"/>
+            </Grid>
+            <!-- Next/Previos Buttons -->
+            <Grid HeightRequest="70" WidthRequest="300" VerticalOptions="Start" HorizontalOptions="Center" Margin="0,0,0,0">
+
+                <Button
+                            x:Name="NextBtn"
+                            Text="Next"
+                            TextColor="White"
+                            Background="BlueViolet"
+                            VerticalOptions="Center"
+                            WidthRequest="140"
+                            HeightRequest="40"
+                            Margin="180,20,0,0"
+                            Clicked="NextBtn_Clicked"
+                            />
+
+                <Button
+                            Text="Previous"
+                            TextColor="White"
+                            Background="#353535"
+                            VerticalOptions="Center"
+                            WidthRequest="140"
+                            HeightRequest="40"
+                            Margin="50,20,225,0"
+                            Clicked="Button_Clicked"/>
+            </Grid>
+
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
